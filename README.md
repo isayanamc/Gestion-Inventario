@@ -2,7 +2,7 @@
 
 ### 📘 Proyecto Final – Programación de Bases de Datos  
 **Universidad Cenfotec** – II Cuatrimestre 2025  
-**Estudiante:** Isayana Mariel Murillo Calderón  
+**Estudiante:** Isayana Murillo Calderón  
 **Profesor:** Luis Alberto Monge F.
 
 ---
@@ -11,7 +11,7 @@
 
 Este sistema fue desarrollado como proyecto final del curso de Programación de Bases de Datos. Su propósito es gestionar eficientemente el inventario, las compras, ventas, clientes y proveedores de una tienda de tecnología.
 
-La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo de aplicar estructuras relacionales, procedimientos almacenados, funciones, triggers, excepciones, cursores y buenas prácticas de normalización y documentación.
+La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo de aplicar estructuras relacionales, procedimientos almacenados, funciones, excepciones, cursores y buenas prácticas de normalización y documentación.
 
 ---
 
@@ -21,7 +21,7 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 - Registro de compras y ventas
 - Gestión de clientes y proveedores
 - Generación de reportes para análisis de datos
-- Aplicación de triggers y validaciones automáticas
+- Aplicación de validaciones automáticas
 
 ---
 
@@ -36,7 +36,6 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 | `funciones.sql`       | Funciones para cálculo de inventario y estadísticas |
 | `procedimientos.sql` | Procedimientos para registrar compras y ventas |
 | `reportes.sql`        | Reportes matriciales, por cliente, producto y local |
-| `triggers.sql`        | Automatización del sistema al realizar transacciones |
 
 ### 📁 Documentación
 
