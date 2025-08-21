@@ -1,13 +1,13 @@
 # 🛒 Sistema de Control de Inventario para Tienda de Tecnología
 
-### 📘 Proyecto Final – Programación de Bases de Datos  
+### Proyecto Final – Programación de Bases de Datos  
 **Universidad Cenfotec** – II Cuatrimestre 2025  
 **Estudiante:** Isayana Murillo Calderón  
 **Profesor:** Luis Alberto Monge F.
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este sistema fue desarrollado como proyecto final del curso de Programación de Bases de Datos. Su propósito es gestionar eficientemente el inventario, las compras, ventas, clientes y proveedores de una tienda de tecnología.
 
@@ -15,7 +15,7 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 
 ---
 
-## 🎯 Objetivos del Sistema
+## Objetivos del Sistema
 
 - Control de productos disponibles por local
 - Registro de compras y ventas
@@ -25,9 +25,9 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 
 ---
 
-## 🧩 Componentes del Proyecto
+## Componentes del Proyecto
 
-### 📁 Scripts
+### Scripts
 
 | Archivo | Descripción |
 |--------|-------------|
@@ -37,7 +37,7 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 | `procedimientos.sql` | Procedimientos para registrar compras y ventas |
 | `reportes.sql`        | Reportes matriciales, por cliente, producto y local |
 
-### 📁 Documentación
+### Documentación
 
 - Modelo Entidad-Relación (MER)
 - Diagrama lógico y físico
@@ -47,7 +47,7 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 
 ---
 
-## 🛠️ Herramientas Utilizadas
+## Herramientas Utilizadas
 
 - **Oracle SQL Developer** – Desarrollo y pruebas
 - **PL/SQL** – Lógica programática del sistema
@@ -56,7 +56,7 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 
 ---
 
-## 📊 Reportes Incluidos
+## Reportes Incluidos
 
 - Inventario total por local y categoría (matricial)
 - Ventas por cliente
@@ -65,13 +65,13 @@ La solución fue construida utilizando **Oracle SQL y PL/SQL**, con el objetivo 
 
 ---
 
-## ✅ Estado del Proyecto
+## Estado del Proyecto
 
-🚀 Proyecto **100% funcional** y probado exitosamente en Oracle SQL.
+Proyecto **100% funcional** y probado exitosamente en Oracle SQL.
 
 ---
 
-## 📎 Licencia
+## Licencia
 
 Este proyecto fue desarrollado con fines educativos.  
 Puedes reutilizar el código con atribución académica.
